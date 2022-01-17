@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\example",
+    "\\src\\main\\java\\com\\example\\demo",
+    "\\src\\main\\resources",
+    "\\src\\main\\resources\\static",
+    "\\src\\main\\resources\\templates",
+    "\\src\\main\\resources\\templates\\css",
+    "\\src\\main\\resources\\templates\\js"
+  ],
+  "SelectedNode": "\\src\\main\\resources\\templates\\js\\app.94fe1a70.js",
+  "PreviewInSolutionExplorer": false
+}
